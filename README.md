@@ -1,6 +1,6 @@
 ## Hello, i'm Carlos Kohaute.
 
-♠ Full stack developer
+♠ Full stack developer<br>
 📚 Learning JS Vanilla in BlueEdTEch
 
 <div align="center">
