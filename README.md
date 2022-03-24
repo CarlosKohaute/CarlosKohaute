@@ -1,7 +1,7 @@
 ## Hello, i'm Carlos Kohaute.
 
 ♠ Full stack developer<br>
-📚 Learning JS Vanilla in BlueEdTEch
+📚 Learning JS with framework Express and SQL too in BlueEdTEch
 
 <div align="center">
   <a href="https://github.com/CarlosKohaute">
