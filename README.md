@@ -1,7 +1,7 @@
 ## Hello, i'm Carlos Kohaute.
 
 ♠ Full stack developer<br>
-📚 Learning JS with framework Express, ReactJS, TypeScript, Nest and databases PostgreSQL and MongoDB too in BlueEdTEch
+📚 Learning JS with framework Express, ReactJS, TypeScript, Nest, Prisma and databases PostgreSQL and MongoDB too in BlueEdTEch
 
 <div align="center">
   <a href="https://github.com/CarlosKohaute">
