@@ -4,7 +4,7 @@
 
 🧬 Soft Skills: I am self-taught, proactive, communicative.<br>
 
-⚡ Hard Skills: Node, Javascript, HTML5, CSS3, ReactJS, Typescript, ExpressJ and databases PostgreSQL and MongoDB too.<br>
+⚡ Hard Skills: Node, Javascript, HTML5, CSS3, ReactJS, Typescript, ExpressJs and databases PostgreSQL and MongoDB too.<br>
 
 📚 Studying: Nest, Prisma, ReactJs and Typescript <br>
 
