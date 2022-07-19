@@ -1,7 +1,14 @@
 ## Hello, i'm Carlos Kohaute.
 
 ♠ Full stack developer<br>
-📚 Learning JS with framework Express, ReactJS, TypeScript, Nest, Prisma and databases PostgreSQL and MongoDB too in BlueEdTEch
+
+🧬 Soft Skills: I am self-taught, proactive, communicative.<br>
+
+⚡ Hard Skills: Node, Javascript, HTML5, CSS3, ReactJS, Typescript, ExpressJ and databases PostgreSQL and MongoDB too.<br>
+
+📚 Studying: Nest, Prisma, ReactJs and Typescript <br>
+
+🖥️ Tools: Git, GitHub, VSCode.<br>
 
 <div align="center">
   <a href="https://github.com/CarlosKohaute">
