@@ -2,7 +2,7 @@
 
 ♠ Full stack developer<br>
 <br/>
-🧬 Soft Skills: I am self-taught, proactive, communicative.<br>
+🧬 Soft Skills: I am self-taught, proactive and communicative.<br>
 <br/>
 ⚡ Hard Skills: Node, Javascript, HTML5, CSS3, ReactJS, Typescript, ExpressJs and databases PostgreSQL and MongoDB too.<br>
 <br/>
